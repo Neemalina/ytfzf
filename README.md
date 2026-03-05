@@ -215,6 +215,11 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | Gardockt      | [contributions](credits/gardockt.md)      |        |
 | qoheniac      | [contributions](credits/qoheniac.md)      |        |
 | mathisto      | [contributions](credits/mathisto.md)      |        |
+
 # Изменение в ветке branch2 - Коммит 1
 # Изменение в ветке branch2 - Коммит 2
 # Modified by branch2 - Change C
+# Изменение в ветки branch1 - Коммит 1
+# Изменение в ветку branch2 - Коммит 2
+# Изменение в ветке branch1 - Коммит 3
+# Конфилкт решён ( отредактировано вручную)
